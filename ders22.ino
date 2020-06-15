@@ -2,7 +2,7 @@
 #include <dht11.h>
 
 String agAdi = "sin37";                 //Ağımızın adını buraya yazıyoruz.    
-String agSifresi = "19191923";           //Ağımızın şifresini buraya yazıyoruz.
+String agSifresi = "********";           //Ağımızın şifresini buraya yazıyoruz.
 
 int rxPin = 10;                                               //ESP8266 RX pini
 int txPin = 11;                                               //ESP8266 TX pini
